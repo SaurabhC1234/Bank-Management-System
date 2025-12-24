@@ -15,7 +15,6 @@ public class Signup3 extends JFrame implements ActionListener {
 
     Signup3(String formno){
 
-
         this.formno = formno;
 
         ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icon/bank.png"));

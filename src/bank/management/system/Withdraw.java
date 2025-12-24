@@ -15,7 +15,6 @@ public class Withdraw extends JFrame implements ActionListener {
     Withdraw(String pin){
 
         this.pin = pin;
-
         ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icon/atm2.png"));
         Image i2 = i1.getImage().getScaledInstance(1400,650,Image.SCALE_DEFAULT);
         ImageIcon i3 = new ImageIcon(i2);

@@ -9,7 +9,6 @@ public class Main_Class extends JFrame implements ActionListener {
 
     JButton b1,b2,b3,b4,b5,b6,b7;
     String pin;
-
     Main_Class(String pin) {
         this.pin = pin;
 

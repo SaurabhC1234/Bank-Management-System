@@ -19,7 +19,6 @@ public class Signup extends JFrame implements ActionListener {
     JRadioButton r1,r2,r3,r4;
 
     JButton next;
-
     Random ran = new Random();
     long first4 = (ran.nextLong() % 9000L);
     String first = " " + Math.abs(first4);

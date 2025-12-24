@@ -7,7 +7,6 @@ import java.awt.event.ActionListener;
 import java.util.Date;
 
 public class Deposit extends JFrame implements ActionListener {
-
     String pin;
     TextField textField;
     JButton b1,b2;

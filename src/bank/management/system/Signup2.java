@@ -12,7 +12,6 @@ public class Signup2 extends JFrame implements ActionListener {
     JRadioButton r1,r2,e1,e2;
     JButton next;
 
-
     String formno;
 
     Signup2(String formno){

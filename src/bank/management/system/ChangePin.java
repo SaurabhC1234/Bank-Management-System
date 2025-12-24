@@ -12,7 +12,6 @@ public class ChangePin extends JFrame implements ActionListener {
     String pin;
 
     ChangePin(String pin){
-
         this.pin = pin;
 
         ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icon/atm2.png"));
