@@ -52,8 +52,7 @@ public class ChangePin extends JFrame implements ActionListener {
         p2.setBackground(new Color(65,125,128));
         p2.setForeground(Color.WHITE);
         l3.add(p2);
-
-
+        
 
         b1 = new JButton("CHANGE");
         b1.setBounds(613,280,150,30);
